@@ -114,3 +114,4 @@ namespace BatchnewB3.Repo
       
     }
 }
+// addscope , addsingleton, addtransient    
